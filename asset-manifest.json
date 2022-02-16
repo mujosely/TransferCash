@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/TransferCash/static/css/main.9898601e.chunk.css",
+    "main.js": "/TransferCash/static/js/main.c6a58b62.chunk.js",
+    "main.js.map": "/TransferCash/static/js/main.c6a58b62.chunk.js.map",
+    "runtime-main.js": "/TransferCash/static/js/runtime-main.dd9690f0.js",
+    "runtime-main.js.map": "/TransferCash/static/js/runtime-main.dd9690f0.js.map",
+    "static/js/2.b0c45f98.chunk.js": "/TransferCash/static/js/2.b0c45f98.chunk.js",
+    "static/js/2.b0c45f98.chunk.js.map": "/TransferCash/static/js/2.b0c45f98.chunk.js.map",
+    "index.html": "/TransferCash/index.html",
+    "static/css/main.9898601e.chunk.css.map": "/TransferCash/static/css/main.9898601e.chunk.css.map",
+    "static/js/2.b0c45f98.chunk.js.LICENSE.txt": "/TransferCash/static/js/2.b0c45f98.chunk.js.LICENSE.txt",
+    "static/media/1.fa27cddf.jpg": "/TransferCash/static/media/1.fa27cddf.jpg",
+    "static/media/Mobile App Download-01.a04df683.png": "/TransferCash/static/media/Mobile App Download-01.a04df683.png",
+    "static/media/nunito-font.css": "/TransferCash/static/media/Nunito-SemiBoldItalic.d38c4851.ttf",
+    "static/media/Support Girl Child Education Image-01.38830c48.png": "/TransferCash/static/media/Support Girl Child Education Image-01.38830c48.png",
+    "static/media/Support Maternal Health-01.fa11e74c.png": "/TransferCash/static/media/Support Maternal Health-01.fa11e74c.png",
+    "static/media/Support Widows-01.3779b709.png": "/TransferCash/static/media/Support Widows-01.3779b709.png",
+    "static/media/afford_white.ecf02e62.png": "/TransferCash/static/media/afford_white.ecf02e62.png",
+    "static/media/asaph.eebd7ca5.jpg": "/TransferCash/static/media/asaph.eebd7ca5.jpg",
+    "static/media/irumva.7864e65e.jpg": "/TransferCash/static/media/irumva.7864e65e.jpg",
+    "static/media/katende.52a9d2cd.jpg": "/TransferCash/static/media/katende.52a9d2cd.jpg",
+    "static/media/logo.f77c1650.jpg": "/TransferCash/static/media/logo.f77c1650.jpg",
+    "static/media/store.aa478b4e.jpg": "/TransferCash/static/media/store.aa478b4e.jpg",
+    "static/media/undraw_mobile_pay_re_sjb8.6c6442c5.svg": "/TransferCash/static/media/undraw_mobile_pay_re_sjb8.6c6442c5.svg",
+    "static/media/undraw_transfer_money_rywa.4fc1112b.svg": "/TransferCash/static/media/undraw_transfer_money_rywa.4fc1112b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd9690f0.js",
+    "static/js/2.b0c45f98.chunk.js",
+    "static/css/main.9898601e.chunk.css",
+    "static/js/main.c6a58b62.chunk.js"
+  ]
+}
